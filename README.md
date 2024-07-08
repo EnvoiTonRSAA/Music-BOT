@@ -3,6 +3,6 @@
 
 # run 
 
-- put parametre on config.json
+- put parametre on config.js
 - lunch start.bat
 - enjoy
